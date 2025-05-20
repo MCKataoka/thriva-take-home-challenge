@@ -28,7 +28,7 @@ This project is a solution for the Thriva Frontend Developer take-home challenge
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/thriva-challenge.git
-   cd thriva-challenge
+   cd thriva-take-home-challenge
    ```
 
 2. Install dependencies

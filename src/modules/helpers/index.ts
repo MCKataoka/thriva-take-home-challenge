@@ -16,11 +16,9 @@ export const hasStatusChanged = (
     return currentStatus !== previousStatus;
 };
 
-/**
- * Calculates a severity score based on how far out of range a result is
- * Returns 0 for normal values, and a positive number representing the distance
- * from the nearest range boundary for out-of-range values
- */
+
+ //Calculates a severity score based on how far out of range a result is
+
 export const getSeverityScore = (value: number, normal_range: NormalRange): number => {
     if (value >= normal_range.lower_bound && value <= normal_range.upper_bound) return 0;
 
