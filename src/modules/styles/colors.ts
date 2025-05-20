@@ -1,10 +1,8 @@
 export const colors = {
-    // Brand colors
     brand: {
         primary: '#0d9488',
         primaryDark: '#0f766e',
     },
-    // Background colors
     background: {
         page: '#f9fafb',
         card: '#ffffff',
@@ -13,7 +11,6 @@ export const colors = {
         low: '#eff6ff',
         warningLight: '#fef3c7',
     },
-    // Text colors
     text: {
         primary: '#111827',
         secondary: '#4b5563',
@@ -22,13 +19,11 @@ export const colors = {
         infoDark: '#1e40af',
         successDark: '#166534',
     },
-    // Border colors
     border: {
         light: '#e5e7eb',
         default: '#d1d5db',
         muted: '#b2b5bb',
     },
-    // Status colors
     status: {
         success: {
             light: '#dcfce7',
