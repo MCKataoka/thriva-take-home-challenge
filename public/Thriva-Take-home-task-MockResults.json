@@ -1,0 +1,233 @@
+[
+  {
+    "id": "28156a",
+    "name": "Cholesterol",
+    "value": 4.9,
+    "unit": "mmol/L",
+    "normal_range": {
+      "lower_bound": 4,
+      "upper_bound": 6
+    },
+    "history": [4.9, 6.5, 7.7]
+  },
+  {
+    "id": "6acbb9",
+    "name": "Hemoglobin",
+    "value": 15.1,
+    "unit": "g/dL",
+    "normal_range": {
+      "lower_bound": 13,
+      "upper_bound": 17
+    },
+    "history": [14, 13.5, 16.1]
+  },
+  {
+    "id": "4e6abc",
+    "name": "Blood Glucose",
+    "value": 3.2,
+    "unit": "mmol/L",
+    "normal_range": {
+      "lower_bound": 3.9,
+      "upper_bound": 5.8
+    },
+    "history": [3.2, 3.5, 7.1]
+  },
+  {
+    "id": "6fc37b",
+    "name": "Iron",
+    "value": 150.1,
+    "unit": "µg/dL",
+    "normal_range": {
+      "lower_bound": 50,
+      "upper_bound": 170
+    },
+    "history": [64.6, 166, 132.9]
+  },
+  {
+    "id": "2ffaf6",
+    "name": "Vitamin D",
+    "value": 49,
+    "unit": "ng/mL",
+    "normal_range": {
+      "lower_bound": 30,
+      "upper_bound": 100
+    },
+    "history": [59.8, 76.4, 84.8]
+  },
+  {
+    "id": "b882e9",
+    "name": "Calcium",
+    "value": 10.5,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 8.5,
+      "upper_bound": 10.2
+    },
+    "history": [6.8, 8.1, 6.6]
+  },
+  {
+    "id": "ac7806",
+    "name": "Sodium",
+    "value": 145.3,
+    "unit": "mmol/L",
+    "normal_range": {
+      "lower_bound": 135,
+      "upper_bound": 145
+    },
+    "history": [139.9, 144, 143.8]
+  },
+  {
+    "id": "5d1cf1",
+    "name": "Potassium",
+    "value": 3.4,
+    "unit": "mmol/L",
+    "normal_range": {
+      "lower_bound": 3.5,
+      "upper_bound": 5
+    },
+    "history": [2.2, 5.4, 4.9]
+  },
+  {
+    "id": "eaa8bb",
+    "name": "Magnesium",
+    "value": 1.8,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 1.7,
+      "upper_bound": 2.2
+    },
+    "history": [-0.2, 0.7, 1]
+  },
+  {
+    "id": "886aa1",
+    "name": "Liver Enzymes",
+    "value": 31.7,
+    "unit": "U/L",
+    "normal_range": {
+      "lower_bound": 10,
+      "upper_bound": 40
+    },
+    "history": [26, 13.1, 23.4]
+  },
+  {
+    "id": "a7d854",
+    "name": "Triglycerides",
+    "value": 8.6,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 0,
+      "upper_bound": 150
+    },
+    "history": [109.1, 100, 68.2]
+  },
+  {
+    "id": "4e7975",
+    "name": "Bilirubin",
+    "value": 2.2,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 0.1,
+      "upper_bound": 1.2
+    },
+    "history": [2.1, 1.1, 0.9]
+  },
+  {
+    "id": "53e832",
+    "name": "Cortisol",
+    "value": 6.9,
+    "unit": "µg/dL",
+    "normal_range": {
+      "lower_bound": 6,
+      "upper_bound": 23
+    },
+    "history": [24.4, 23.7, 16.8]
+  },
+  {
+    "id": "75fa63",
+    "name": "Creatinine",
+    "value": 1.3,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 0.6,
+      "upper_bound": 1.2
+    },
+    "history": [1.9, 1, 0.3]
+  },
+  {
+    "id": "cae8e1",
+    "name": "Uric Acid",
+    "value": 3.4,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 3.4,
+      "upper_bound": 7
+    },
+    "history": [7.8, 6.4, 4.3]
+  },
+  {
+    "id": "e22fcf",
+    "name": "Albumin",
+    "value": 5.7,
+    "unit": "g/dL",
+    "normal_range": {
+      "lower_bound": 3.5,
+      "upper_bound": 5
+    },
+    "history": [4.9, 4.9, 6.5]
+  },
+  {
+    "id": "911e0a",
+    "name": "BUN",
+    "value": 16.2,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 6,
+      "upper_bound": 20
+    },
+    "history": [4.2, 5.7, 13.7]
+  },
+  {
+    "id": "ab9efe",
+    "name": "LDL Cholesterol",
+    "value": 56.6,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 0,
+      "upper_bound": 100
+    },
+    "history": [59.8, 96.1, 86.1]
+  },
+  {
+    "id": "964128",
+    "name": "HDL Cholesterol",
+    "value": 51.9,
+    "unit": "mg/dL",
+    "normal_range": {
+      "lower_bound": 40,
+      "upper_bound": 60
+    },
+    "history": [51.3, 55, 52.3]
+  },
+  {
+    "id": "ddd0b2",
+    "name": "Total Protein",
+    "value": 8.3,
+    "unit": "g/dL",
+    "normal_range": {
+      "lower_bound": 6,
+      "upper_bound": 8.3
+    },
+    "history": [7.7, 8.8, 5.2]
+  },
+  {
+    "id": "dd1a2e",
+    "name": "Alkaline Phosphatase",
+    "value": 132.8,
+    "unit": "U/L",
+    "normal_range": {
+      "lower_bound": 44,
+      "upper_bound": 147
+    },
+    "history": [130.9, 114.7, 47.7]
+  }
+]
